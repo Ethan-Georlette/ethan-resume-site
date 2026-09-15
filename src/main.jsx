@@ -152,7 +152,7 @@ function App() {
             <h1>Ethan<br /><span>Georlette.</span></h1>
             <p className="hero-title">{profile.title}</p>
             <p className="hero-lede">
-              I enjoy working where software meets infrastructure — building systems, understanding how services communicate, and making environments more reliable and repeatable.
+              I enjoy working where software meets infrastructure - building systems, understanding how services communicate, and making environments more reliable and repeatable.
             </p>
             <div className="hero-actions">
               <a className="primary-button" href="#projects">View projects <ChevronRight size={17} /></a>
