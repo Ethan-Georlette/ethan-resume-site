@@ -177,7 +177,7 @@ function App() {
                   <small>add public/profile.jpg</small>
                 </div>
               )}
-              <div className="portrait-code">~/platform-lab</div>
+              {/* <div className="portrait-code">~/platform-lab</div> */}
             </div>
             <div className="focus-card">
               <span className="focus-label">CURRENT FOCUS</span>
